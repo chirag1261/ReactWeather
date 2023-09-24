@@ -22,3 +22,8 @@ To provide a smooth user experience, I used conditional rendering. For example, 
 
 If the API returned an array of data, I rendered this data as a list in my application. I made sure to correctly use keys, which helped React identify and efficiently update the list items.
 Lastly, I implemented basic routing in my application using React Router. This allowed me to navigate between different pages or components based on the URL, providing a seamless user experience.
+ 
+# AWS Screenshot
+![Screenshot (6)](https://github.com/chirag1261/ReactWeather/assets/72370490/c3392e48-ed9a-4de8-8c1b-305f4d60c67a)
+![Screenshot (5)](https://github.com/chirag1261/ReactWeather/assets/72370490/5eed6233-9eab-4c1a-bed3-f9411f83eac3)
+

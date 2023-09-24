@@ -5,6 +5,7 @@ Here's the Deploy link where you can have a look of the website : http://16.16.3
 which is hosted on AWS ec2 instance.
 
 To run the project on your local system download the project and install the node modules using:  **npm install**
+
 Then run this commant on your terminal for  : **npm start**
 
 I created reusable functional or class-based components using JSX. This allowed me to modularize my code and reuse components throughout my application.

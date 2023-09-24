@@ -4,8 +4,8 @@ A react WeatherApp where the user can choose the city and see the weather throug
 Here's the Deploy link where you can have a look of the website : http://16.16.38.128:3000/
 which is hosted on AWS ec2 instance.
 
-To run the project on your local system download the project and install the node modules using npm install
-Then run this commant on your terminal for npm start
+To run the project on your local system download the project and install the node modules using:  **npm install
+Then run this commant on your terminal for  : **npm start
 
 I created reusable functional or class-based components using JSX. This allowed me to modularize my code and reuse components throughout my application.
 Here's the API that I have used in my application: https://api.openweathermap.org/data/2.5/forecast?q=${city}&APPID=6557810176c36fac5f0db536711a6c52
